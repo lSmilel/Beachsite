@@ -96,3 +96,122 @@ Gallery
 </div>
 </html>
 
+<css>
+header {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  background-color: #e6b000;
+  border-radius: 25px;
+}
+
+html {
+  background-color: #35a2f0;
+}
+
+.general {
+  height: auto;
+  width: 50%;
+  background-color: #e6b000;
+  border-radius:25px;
+  font-family: comic sans ms;
+  font-size: 100%;
+}
+
+.hdimg {
+  width: 300px;
+  border-radius: 100px;
+}
+
+packages {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  padding: 10%;
+}
+
+.pizza {
+  height: auto;
+  width: 60%;
+  background-color: #e6b000;
+  border-radius: 25px;
+}
+
+.mgp {
+  width: 40%;
+  height: auto;
+  overflow: auto;
+}
+
+.comic {
+  font-family: comic sans ms;
+  font-size: 300%;
+}
+
+people {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  padding: 10%;
+  color: white;
+}
+
+.pck {
+  height: auto;
+  width: 60%;
+  background-color: #e6b000;
+  border-radius: 25px;
+  padding-bottom: 10px;
+}
+
+.info {
+  font-family: comic sans ms;
+  font-size: 175%;
+}
+
+#myBtn {
+  bottom: 3%;
+  left: 50%;
+  z-index: 99;
+  border: none; 
+  outline: none; 
+  background-color: #35a2f0;
+  color: white; 
+  cursor: pointer; 
+  padding: 15px; 
+  border-radius: 10px; 
+  font-size: 150%; 
+  font-family: comic sans ms;
+}
+
+#myBtn:hover {
+  background-color: #8cd3f5;
+}
+
+p {
+  color: white;
+}
+
+pgi {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  padding: 10%;
+  color: white;
+}
+
+.second {
+  padding-left:20%;
+}
+
+.galimg {
+  padding-top: 5px;
+  padding-right:;
+  padding-bottom: 5px;
+  padding-left:;
+  background-color: #e6b000;
+  border-radius: 25px;
+  width:75%;
+}
+
+.gallery {
+  width: 35%;
+  height: auto;
+  overflow: auto;
+  border-radius: 20px;
+}
+
+</css>
+
