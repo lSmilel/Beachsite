@@ -96,7 +96,7 @@ Gallery
 </div>
 </html>
 
-<css>
+<style>
 header {
   font-family: Brush Script MT, Brush Script Std, cursive;
   background-color: #e6b000;
@@ -213,5 +213,5 @@ pgi {
   border-radius: 20px;
 }
 
-</css>
+</style>
 
